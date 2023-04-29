@@ -1,3 +1,7 @@
 .txtCentralizado{
     text-align: center;
 }
+
+li:hover{
+    background-color: aqua;
+}
